@@ -61,3 +61,23 @@ a:hover {
 .logo:hover {
     cursor: default;
 }
+
+/*Main Page*/
+
+#main-page-nav {
+    display: none;
+}*
+
+.main-page {
+    position: relative;
+    display: inline-block;
+}
+
+.icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 24px;
+    width: 30px;
+    cursor: pointer;
+}
