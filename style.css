@@ -212,6 +212,13 @@ section {
     height: 50px;
 }
 
+.exp-icon, .edu-icon {
+    cursor: default;
+    height: 2rem;
+    width: 50px;
+    height: 50px;
+}
+
 /*BUTTONS*/
 .btn-container {
     display: flex;
